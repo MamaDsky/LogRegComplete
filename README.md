@@ -11,7 +11,9 @@ Simple project made with HTML, CSS, JS, and PHP programming languages. This proj
 
 ## Demo
 
-![Cari Data Di Dalam Website Dengan PHP Mysql - Google Chrome 2023-08-05 21-16-01](https://github.com/MamaDsky/DataSearch/assets/121335238/dc29ac0d-e8a8-42ee-b3d7-687cd7ffc7bd)
+
+![Login Register + Upload Image - Google Chrome 2023-08-06 18-07-29](https://github.com/MamaDsky/LogRegComplete/assets/121335238/733bb5c4-cda6-4af4-b462-bf869ee16e07)
+
 
 
 
