@@ -1,7 +1,7 @@
 
 # Data Search
 
-Simple project made with HTML, CSS, JS, and PHP programming languages. This project will work by displaying all student data and will filter student data which will be written in the input field and the data will appear based on the keywords written in the input field
+A simple login register application with several features, namely: login, register, logout, welcome page and you can upload a picture or profile picture into the application and the image will be saved in the profile folder which you can see in the source code. This app is made with html | css | PHP | MYSQL.
 
 
 ## Authors
