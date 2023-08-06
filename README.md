@@ -1,5 +1,5 @@
 
-# Data Search
+# Complete Login Register
 
 A simple login register application with several features, namely: login, register, logout, welcome page and you can upload a picture or profile picture into the application and the image will be saved in the profile folder which you can see in the source code. This app is made with html | css | PHP | MYSQL.
 
