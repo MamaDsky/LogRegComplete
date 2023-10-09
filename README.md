@@ -23,5 +23,5 @@ I am a student in high school who has an interest in the programming world and i
 
 ## Support
 
-For support, email mamadaldo@gmail.com or join Whatsapp group.
+For support, email mamadaldo1@gmail.com or join Whatsapp group.
 
